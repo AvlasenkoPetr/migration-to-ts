@@ -1,1 +1,1 @@
-https://avlasenkopetr.github.io/museum-dom/dist/index.html
+https://avlasenkopetr.github.io/migration-to-ts/dist/index.html
